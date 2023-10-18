@@ -1,0 +1,9 @@
+site_name: Tom.log
+site_url: https://tomirgang.de/
+nav:
+  - Home: index.md
+  - About: about.md
+repo_url: https://github.com/tomirgang/log/
+edit_uri: edit/main/docs/
+theme: readthedocs
+site_dir: tomirgang.github.io/docs
